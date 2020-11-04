@@ -7,21 +7,21 @@ WCG &DDUNGSANG Team SIL Open Font License 1.1, 7 fonts (5 text, 2 display), 331 
 
 ●	On text set
 
-●	Friendly
+●	Play Friendly
 
-●	Enjoy
+●	Play Enjoy
 
-●	Exciting
+●	Play Exciting
 
-●	Festival
+●	Play Festival
 
-●	Festival Pop
+● Play	Festival Pop
 
 ●	On display set
 
-●	Fun
+●	Play Fun
 
-●	Fun Pop
+●	Play Fun Pop
 
 To contribute to the project contact WCG (www.wcg.com).
 
