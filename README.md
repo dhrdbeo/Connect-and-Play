@@ -4,15 +4,25 @@ WCG &DDUNGSANG Team SIL Open Font License 1.1, 7 fonts (5 text, 2 display), 331 
 
 
 ### Connect and Play contains:
+
 ●	On text set
+
 ●	Friendly
+
 ●	Enjoy
+
 ●	Exciting
+
 ●	Festival
+
 ●	Festival Pop
+
 ●	On display set
+
 ●	Fun
+
 ●	Fun Pop
+
 To contribute to the project contact WCG (www.wcg.com).
 
 
