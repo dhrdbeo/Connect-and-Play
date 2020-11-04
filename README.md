@@ -41,13 +41,21 @@ This information should be distributed along with the Connect and Play fonts and
 
 
 ### Connect and Play is a typeface family that supports the following Unicode language range:
+
 ●	Basic Latin U+0020-U+007E
+
 ●	Latin-1 Supplement U+00A0-U+00FF
+
 ●	Latin Extended-A U+0100-U+017F *(85/128)
+
 Character map to support:
+
 ●	Adobe Latin Character Sets (Adobe Latin 3 (Adobe CE))
+
 To contribute to the project contact WCG at privacy@wcg.com
+
 2020 October 16 (v1.000) Initial Commit (WCG)
+
 ●	Initial commit
 
 
