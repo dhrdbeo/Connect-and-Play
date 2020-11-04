@@ -1,6 +1,8 @@
-# playfriendly
+## Play Friendly
+
 WCG &DDUNGSANG Team SIL Open Font License 1.1, 7 fonts (5 text, 2 display), 331 glyphs(text), 47 glyphs(display) each variant.
-WCG Play Family contains:
+
+*WCG Play Family contains:*
 ●	On text set
 ●	Friendly
 ●	Enjoy
@@ -10,8 +12,9 @@ WCG Play Family contains:
 ●	On display set
 ●	Fun
 ●	Fun Pop
-To contribute to the project contact WCG.
-Design
+To contribute to the project contact WCG (www.wcg.com).
+
+*Design*
 ●	DDUNGSANG CORP.
 License
 Copyright (c) 2020, WCG (www.wcg.com | mynjung@wcg.com)
