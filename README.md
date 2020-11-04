@@ -1,8 +1,8 @@
-# Play Friendly
+# Connect and Play
 
 WCG &DDUNGSANG Team SIL Open Font License 1.1, 7 fonts (5 text, 2 display), 331 glyphs(text), 47 glyphs(display) each variant.
 
-*WCG Play Family contains:*
+#### Connect and Play contains:
 ●	On text set
 ●	Friendly
 ●	Enjoy
@@ -14,14 +14,14 @@ WCG &DDUNGSANG Team SIL Open Font License 1.1, 7 fonts (5 text, 2 display), 331 
 ●	Fun Pop
 To contribute to the project contact WCG (www.wcg.com).
 
-*Design*
+Design*
 ●	DDUNGSANG CORP.
 
 *License*
 Copyright (c) 2020, WCG (www.wcg.com | mynjung@wcg.com)
 Licensed under the SIL Open Font License, 1.1; you may not use this file except in compliance with the License.
 
-*FONTLOG for the WCG Play fonts*
+*FONTLOG for the Connect and Play fonts*
 This file provides detailed information on the WCG Play font software.
 This information should be distributed along with the WCG Play fonts and any derivative works.
 
