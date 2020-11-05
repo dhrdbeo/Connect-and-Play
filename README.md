@@ -52,8 +52,7 @@ Character map to support:
 
 ●	Adobe Latin Character Sets (Adobe Latin 3 (Adobe CE))
 
-To contribute to the project contact WCG at privacy@wcg.com
-
+To contribute to the project contact WCG at mynjung@wcg.com
 2020 October 16 (v1.000) Initial Commit (WCG)
 
 ●	Initial commit
