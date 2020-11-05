@@ -25,7 +25,7 @@ WCG &DDUNGSANG Team SIL Open Font License 1.1, 7 fonts (5 text, 2 display), 331 
 
 To contribute to the project contact WCG (www.wcg.com).
 
-documentation/Texturina-01.png "Texturina")
+![Sample of Texturina Family.]documentation/poster1.mp4 "Texturina"
 
 
 ### Design
